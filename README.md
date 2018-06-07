@@ -4,5 +4,5 @@
 * [Assignment 4](https://github.com/DarnellStarling/assignments/blob/master/assignment4.ipynb)
 * [Assignment 5](https://github.com/DarnellStarling/assignments/blob/master/Graded_assignment1.ipynb)
 * [Assignment 6](https://github.com/DarnellStarling/assignments/blob/master/Graded_assignment_2.ipynb)
-* [Final Python Assignment] (https://github.com/DarnellStarling/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
-* [Final R Assignment] (https://github.com/DarnellStarling/assignments/blob/master/Exam_student.ipynb)
+* [Python Assignment] (https://github.com/DarnellStarling/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
+* [R Assignment] https://github.com/DarnellStarling/assignments/blob/master/Exam_student.ipynb
